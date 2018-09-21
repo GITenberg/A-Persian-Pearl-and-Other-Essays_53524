@@ -1,0 +1,30 @@
+_repo: A-Persian-Pearl-and-Other-Essays_53524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darrow, Clarence
+    aliases:
+    - Darrow, Clarence Seward
+    - Darrow, Clarence S.
+    birthdate: 1857
+    deathdate: 1938
+    gutenberg_agent_id: '4184'
+    url: http://www.gutenberg.org/2009/agents/4184
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Darrow
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A Persian pearl [Omar Khayyam] -- Walt Whitman -- Robert Burns --
+  Realism in literature and art -- The skeleton in the closet.
+title: A Persian Pearl, and Other Essays
+url: http://www.gutenberg.org/ebooks/53524
